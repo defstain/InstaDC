@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  InstaDC
+
+  Created by IC Deis on 7/5/23.
+  
+*/
+
+// MARK: -- Main Tabs Strings;
+"feed-lcz" = "Tasma";
+"explore-lcz" = "Barchasi";
+"upload-lcz" = "Yangi Post";
+"profile-lcz" = "Profil";
+"notification-lcz" = "Bildirishnoma";
+"post-lcz" = "Post";
+
+
+// MARK: -- ActionSheet Strings;
+"edit-lcz" = "Tahrirlash";
+"share-lcz" = "Ulashish";
+"learn more-lcz" = "Ko'proq o'rganish";
+"report-lcz" = "Xabar berish";
+"delete-lcz" = "O'chirish";
+"save-lcz" = "Saqlash";
+
+
+// MARK: -- Report Post Strings;
+"spam-lcz" = "Spam";
+"spam post-lcz" = "Spam post";
+"copyright-lcz" = "Mualliflik huquqi";
+"copyright post-lcz" = "Mualliflik huquqi post";
+"inappropriate-lcz" = "Nomaqbul";
+"inappropriate post-lcz" = "Nomaqbul post";
+"cancel-lcz" = "Ortga";
+"what would you like to do?-lcz" = "Nima qilmoqchisiz?";
+"reporting this post to the team-lcz" = "Bu postni jamoaga xabar berish";
+"why are you reporting this post?-lcz" = "Nima uchun bu post haqida xabar bermoqchisiz?";
+"check out this post on website-lcz" = "Bu postni saytdan ko'rish";
+
+
+// MARK: -- Delete Post Strings
+"are you sure want to delete-lcz" = "Bu postni o'chirishni xohlaysizmi?";
+"delete post-lcz" = "Postni O'chirish";
+
+
+// MARK: -- Profile View
+"message-lcz" = "Xabar";
+"follow-lcz" = "Kuzatish";
+"unfollow-lcz" = "Kuzatmaslik";
+"posts-lcz" = "Postlar";
+"likes-lcz" = "Yoqtirganlar";
+"followings-lcz" = "Ergashuvchilar";
+
+
+// MARK: -- Settings View Strings;
+"settings-lcz" = "Sozlamalar";
+"about app-lcz" = "Bizning sayyoramiz yashil o'simliklar, gullar va daraxtlar bilan go'zal, shuning uchun biz bu go'zallikni saqlash uchun qo'limizdan kelganini qilishimiz kerak.";
+
+"edit profile photo-lcz" = "Profil rasmi";
+"edit profile photo description-lcz" = "Profil rasmini o'zgartirish.";
+"profile photo-lcz" = "Profil rasmi";
+
+"username-lcz" = "Nom";
+"edit username-lcz" = "Nomni o'zgartirish";
+"edit username description-lcz" = "Nomni o'zgartirish.";
+"edi username placeholder-lcz" = "Yangi nom...";
+
+"display name-lcz" = "Ism";
+"edit display name-lcz" = "Ismni o'zgartirish";
+"edit display name description-lcz" = "Ismni o'zgartirish.";
+"new display name placeholder-lcz" = "Yangi ismi...";
+
+"edit bio-lcz" = "Tarjimayi hol";
+"edit bio description-lcz" = "Tarjimayi holni o'zgartirish.";
+"edit bio placeholder-lcz" = "Yangi tarjimayi hol...";
+"bio-lcz" = "Tarjimayi hol";
+
+"app password-lcz" = "Ilova paroli";
+"set password-lcz" = "Parol o'rnatish";
+"select time-lcz" = "Vaqtni tanlang";
+"1 minute-lcz" = "1 daqiqa";
+"3 minutes-lcz" = "3 daqiqa";
+"5 minutes-lcz" = "5 daqiqa";
+"immediately-lcz" = "Darhol";
+"set password 2-lcz" = "Parol o'rnatish";
+"delete password-lcz" = "Parolni o'chirish";
+"change password-lcz" = "Parolni o'zgartirish";
+"use biometric-lcz" = "Face & Touch **ID**'dan foydalanish";
+
+"app language-lcz" = "Ilova tili";
+"sign out-lcz" = "Chiqish";
+"website-lcz" = "Veb Sahifa";
+"privacy policy-lcz" = "Maxfiylik siyosati";
+"condition & terms-lcz" = "Holat & Shartlar";
+"application-lcz" = "Ilova";
+"footer app description-lcz" = "Insta DC - DEVISS tomonidan yasalgan \nBarcha huquqlar himoyalangan \nLaaFerta Inc \nMualliflik huquqi 2023";
+
+
+// MARK: -- Authentication Part
+"you are not signed in-lcz" = "Siz ilovaga kirmagansiz!";
+"click the button below-lcz" = "Account qo'shish uchun pastdagi tugmani bosing va jamoaga qo'shiling!";
+"sign in & sign up-lcz" = "Kirish & Ro'yxatdan o'tish";
+"welcome to instagram dc-lcz" = "Instagram DC'ga xush kelibsiz";
+"continue as guest-lcz" = "Mehmon sifatida kirish";
+"check username exist-lcz" = "*Foydalanuvchi nomi mavjudligini tekshiring.";
+"username must be-lcz" = "Nom kamida 5 belgidan iborat bo'lishi kerak";
+"username was already taken-lcz" = "Kiritilgan nom band!";
+"available-lcz" = "Mavjud";
+"what's your username-lcz" = "Foydalanuvchi nomi?";
+"what's your name-lcz" = "Ismingiz nima?";
+"add username placeholder-lcz" = "Foydalanuvchi nomi...";
+"add your name placeholder-lcz" = "Ismingizni kiriting...";
+"finish-lcz" = "Tugatish";
+
+// error messages
+"error: signing in-lcz" = "Kirishda xatolik";
+"could not sign in-lcz" = "Kirib bo'lmadi.";
+"error: making new user-lcz" = "Yangi user qo'shishda xatolik";
+"could not make new user profile-lcz" = "Yangi foydalanuvchi qo'shib bo'lmadi.";
+
+
+// MARK: -- Comments View
+"type-here-placeholder-lcz" = "Bu yerga yozing...";
+"add-lcz" = "Qo'shish";
+"comments-lcz" = "Sharhlar";
+
+
+// MARK: Upload Part
+"upload-lcz" = "Yuklash";
+"from camera-lcz" = "Kameradan";
+"from library-lcz" = "Galeriyadan";
+"type something placeholder-lcz" = "Bu yerga yozing...";
+"publish-lcz" = "Nashr qilish";
+
+
+// MARK: -- Messages View
+"messages-lcz" = "Xabarlar";
+"no messages-lcz" = "Xabarlar yo'q";
+
+
+// MARK: -- Lock Screen
+"enter password-lcz" = "Parolni kiriting";
+
+
+// MARK: -- Common Words
+"done-lcz" = "Tayyor";
+"save-lcz" = "Saqlash";
+"delete-lcz" = "O'chirish";
+"edit-lcz" = "Tahrirlash";
+"send-lcz" = "Jo'natish";
+"cancel-lcz" = "Bekor qilish";
+"close-lcz" = "Yopish";
+"confirm-lcz" = "Tasdiqlash";
+"search-lcz" = "Izlash";
+"loading-lcz" = "Yuklanmoqda...";
+"placeholder-lcz" = "Bu yerga yozing...";
+
+
+// MARK: -- Notifications
+"no notifications-lcz" = "Bildirishnomalar yo'q";

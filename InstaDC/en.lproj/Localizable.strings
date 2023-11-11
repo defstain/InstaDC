@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  InstaDC
+
+  Created by IC Deis on 7/5/23.
+  
+*/
+
+// MARK: -- Main Tabs Strings
+"feed-lcz" = "Feed";
+"explore-lcz" = "Explore";
+"upload-lcz" = "Upload";
+"profile-lcz" = "Profile";
+"notification-lcz" = "Notification";
+"post-lcz" = "Post";
+
+
+// MARK: -- ActionSheet Strings
+"edit-lcz" = "Edit";
+"share-lcz" = "Share";
+"learn more-lcz" = "Learn more";
+"report-lcz" = "Report";
+"delete-lcz" = "Delete";
+"save-lcz" = "Save";
+
+
+// MARK: -- Report Post Strings
+"spam-lcz" = "Spam";
+"spam post-lcz" = "Spam post";
+"copyright-lcz" = "Copyright";
+"copyright post-lcz" = "Copyright post";
+"inappropriate-lcz" = "Inappropriate";
+"inappropriate post-lcz" = "Inappropriate post";
+"cancel-lcz" = "Cancel";
+"what would you like to do?-lcz" = "What would you like to do?";
+"reporting this post to the team-lcz" = "Reporting this post to the team";
+"why are you reporting this post?-lcz" = "Why are you reporting this post?";
+"check out this post on website-lcz" = "Check out this post on website";
+
+
+// MARK: -- Delete Post Strings
+"are you sure want to delete-lcz" = "Are you sure want to delete this post?";
+"delete post-lcz" = "Delete Post";
+
+
+// MARK: -- Profile View
+"message-lcz" = "Message";
+"follow-lcz" = "Follow";
+"unfollow-lcz" = "Unfollow";
+"posts-lcz" = "Posts";
+"likes-lcz" = "Likes";
+"followings-lcz" = "Followings";
+
+
+// MARK: -- Settings View Strings
+"settings-lcz" = "Settings";
+"about app-lcz" = "Our planet is beautiful with green plants, flowers and trees, that's why we have to try to do our best to keep that beautiful.";
+
+"profile photo-lcz" = "Profile Photo";
+"edit profile photo-lcz" = "Edit Profile Photo";
+"edit profile photo description-lcz" = "Here you can edit your profile photo";
+
+"username-lcz" = "Usermame";
+"edit username-lcz" = "Edit Username";
+"edit username description-lcz" = "Here you can edit username.";
+"edi username placeholder-lcz" = "New username...";
+
+"display name-lcz" = "Display Name";
+"edit display name-lcz" = "Edit Display name";
+"edit display name description-lcz" = "Here you can edit your display name.";
+"edit display name placeholder-lcz" = "New display name...";
+
+"bio-lcz" = "Bio";
+"edit bio-lcz" = "Edit Bio";
+"edit bio description-lcz" = "Here you can edit your bio text.";
+"edit bio placeholder-lcz" = "New bio...";
+
+"app password-lcz" = "App password";
+"set password-lcz" = "Set Password";
+"select time-lcz" = "Select Time";
+"1 minute-lcz" = "1 minute";
+"3 minutes-lcz" = "3 minutes";
+"5 minutes-lcz" = "5 minutes";
+"immediately-lcz" = "Immediately";
+"set password 2-lcz" = "Set password";
+"delete password-lcz" = "Delete password";
+"change password-lcz" = "Change password";
+"use biometric-lcz" = "Use Face & Touch **ID**";
+
+"app language-lcz" = "App Language";
+"sign out-lcz" = "Sign Out";
+"website-lcz" = "Website";
+"privacy policy-lcz" = "Privacy Policy";
+"condition & terms-lcz" = "Condition & Terms";
+"application-lcz" = "Application";
+"footer app description-lcz" = "Insta DC app was made by DEVISS \nAll Rights reserved \nLaaFerta Inc \nCopyright 2023";
+
+
+// MARK: -- Authentication Part
+"you are not signed in-lcz" = "You are not signed in!";
+"click the button below-lcz" = "Click the button below to make an account and join the community.";
+"sign in & sign up-lcz" = "Sign In & Sign Up";
+"welcome to instagram dc-lcz" = "Welcome to Instagram DC!";
+"continue as guest-lcz" = "Continue as Guest";
+"check username exist-lcz" = "*Type username to check if it's exist.";
+"username must be-lcz" = "Username must be at least 5 characters long.";
+"username was already taken-lcz" = "Username was already taken!";
+"available-lcz" = "Available";
+"what's your username-lcz" = "What's your username?";
+"what's your name-lcz" = "What's your name?";
+"add username placeholder-lcz" = "Add username...";
+"add your name placeholder-lcz" = "Add your name...";
+"finish-lcz" = "Finish";
+
+// error messages
+"error: signing in-lcz" = "Error: Signing in";
+"could not sign in-lcz" = "Could not sign in.";
+"error: making new user-lcz" = "Error: Making new user";
+"could not make new user profile-lcz" = "Could not make new user profile.";
+
+
+// MARK: -- Comments View
+"type-here-placeholder-lcz" = "Type something...";
+"add-lcz" = "Add";
+"comments-lcz" = "Comments";
+
+
+// MARK: -- Upload Part
+"upload-lcz" = "Upload";
+"from camera-lcz" = "from Camera";
+"from library-lcz" = "from Library";
+"type something placeholder-lcz" = "Type something...";
+"publish-lcz" = "Publish";
+
+
+// MARK: -- Messages View
+"messages-lcz" = "Messages";
+"no messages-lcz" = "No messages";
+
+
+// MARK: -- Lock Screen
+"enter password-lcz" = "Enter password";
+
+
+// MARK: -- Common Words
+"done-lcz" = "Done";
+"save-lcz" = "Save";
+"delete-lcz" = "Delete";
+"edit-lcz" = "Edit";
+"send-lcz" = "Send";
+"cancel-lcz" = "Cancel";
+"close-lcz" = "Close";
+"confirm-lcz" = "Confirm";
+"search-lcz" = "Search";
+"loading-lcz" = "Loading...";
+"placeholder-lcz" = "Type here...";
+
+
+// MARK: -- Notifications
+"no notifications-lcz" = "No notifications";

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22154" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22130"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gradient2" translatesAutoresizingMaskIntoConstraints="NO" id="kEM-sC-U6j">
+                                <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Insta DC" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XV0-vM-tBD">
+                                <rect key="frame" x="50" y="259" width="293" height="48"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="40"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="highlightedColor" red="0.0" green="0.98106676339999999" blue="0.57369142770000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <size key="shadowOffset" width="0.0" height="0.0"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="IC Deis" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qdZ-tP-7gT">
+                                <rect key="frame" x="146.66666666666666" y="753" width="100" height="35"/>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="100" id="HNL-Xn-vzF"/>
+                                    <constraint firstAttribute="height" constant="35" id="Lmj-56-Mnv"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Bcu-3y-fUS"/>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="kEM-sC-U6j" secondAttribute="bottom" id="28Q-rt-sO9"/>
+                            <constraint firstItem="kEM-sC-U6j" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="PNC-fT-xoO"/>
+                            <constraint firstAttribute="trailing" secondItem="kEM-sC-U6j" secondAttribute="trailing" id="T5I-h3-pwf"/>
+                            <constraint firstItem="XV0-vM-tBD" firstAttribute="centerX" secondItem="kEM-sC-U6j" secondAttribute="centerX" id="TQQ-mR-Nh7"/>
+                            <constraint firstItem="kEM-sC-U6j" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="WoK-gf-ksg"/>
+                            <constraint firstItem="XV0-vM-tBD" firstAttribute="top" secondItem="Bcu-3y-fUS" secondAttribute="top" constant="200" id="ar0-iS-BDN"/>
+                            <constraint firstItem="qdZ-tP-7gT" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="cUF-7f-iFp"/>
+                            <constraint firstItem="kEM-sC-U6j" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="kUi-ep-kqK"/>
+                            <constraint firstItem="Bcu-3y-fUS" firstAttribute="bottom" secondItem="qdZ-tP-7gT" secondAttribute="bottom" constant="30" id="kwJ-dG-bgJ"/>
+                            <constraint firstItem="XV0-vM-tBD" firstAttribute="leading" secondItem="Bcu-3y-fUS" secondAttribute="leading" constant="50" id="xVr-ko-ipq"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="gradient2" width="1080" height="1920"/>
+    </resources>
+</document>
